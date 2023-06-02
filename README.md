@@ -1,3 +1,3 @@
 # HTML-CSS-OB3
 
-Página em HTML E CSS de uma loja de sucos.
+Projeto de página em HTML E CSS de uma loja de sucos.
